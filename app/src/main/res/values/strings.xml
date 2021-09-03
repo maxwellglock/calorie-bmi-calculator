@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Calculadoras de Calorías e IMC</string>
+    <string name="se_necesita_informaci_n_sobre_ti_para_obtener_resultados_correctos">CALCULA TUS REQUERIMIENTOS CALÓRICOS DIARIOS</string>
+    <string name="tu_eres">¿Tu eres?</string>
+    <string name="tu_estatura_cent_metros">Tu altura (Centímetros)</string>
+    <string name="radiobutton">RadioButton</string>
+    <string name="multiautocompletetextview">MultiAutoCompleteTextView</string>
+    <string name="tu_actividad_f_sica_semanal">Tu actividad física semanal</string>
+    <string name="tu_peso_actual">Tu peso actual (kg)</string>
+    <string name="hint">hint</string>
+    <string name="seleccionar">Seleccionar</string>
+    <string name="altura">0</string>
+    <string name="edad">0</string>
+    <string name="peso">0</string>
+    <string name="rb_hombre1">Hombre</string>
+    <string name="rb_mujer1">Mujer</string>
+    <string name="rbNada">Nada</string>
+    <string name="rbPoca">Poca</string>
+    <string name="rbMod">Moderada</string>
+    <string name="rbIntensa">Intensa</string>
+    <string name="tv_resultado"></string>
+    <string name="calcular">Calcular</string>
+    <string name="tv_resultado2"></string>
+    <string name="tv_resultado3"></string>
+    <string name="BotonSiguiente">Como seguir</string>
+    <string name="BotonVolver">Volver</string>
+    <string name="ImcTit">CALCULADORA IMC</string>
+
+
+    <string name="TextoMantenimiento">Estimada/o, gracias por descargar nuestra app.
+    Lo que sigue ahora es encontrar un plan de alimentación balanceado / equilibrado, acorde
+    a la cantidad de calorías diarias que haz calculado. Pronto estaremos subiendo algunos de
+    ejemplo para que puedan ver y consultar para sus propios planes alimenticios.
+    Recomiendo antes visitar a tu nutriologo / nutricionista de confianza.
+    </string>
+    <string name="textoVotar">Agradeceríamos que califiques nuestra app para que podamos seguir creciendo y creando mas
+    contenido de valor</string>
+    <string name="tu_edad">Tu edad</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
